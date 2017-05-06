@@ -1,0 +1,18 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "demo version",
+  "main": "bot_reply.js",
+  "dependencies": {
+    "progressively": "^1.0.0",
+    "turbolinks": "^5.0.0",
+    "twit": "^2.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhinav ralhan",
+  "license": "ISC"
+}
