@@ -1,1 +1,2 @@
-Twitter bot with basic functions
+# Twitter bot 
+Basic functions used to understand API usage and implementation.
